@@ -1,0 +1,23 @@
+relações 
+true and false
+
+and
+
+exemplo:
+variavel1 = valor1
+variavel2 = valor2
+variavel1 > variavel2 and variavel2 < variavel1
+(true)
+
+or
+
+exemplo:
+var1
+var2
+ var1 == val1 or var2 == var2
+true
+
+atalho extra
+alt + b
+alt + n
+mostra os comandos anteriores que vc usou
