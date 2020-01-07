@@ -1,0 +1,22 @@
+tipos numéricos
+* int
+* float
+* bool
+* complex
+
+substituição de strings (%)
+string  %s
+decimais  %d
+float  %f
+
+-------------------------------------
+
+= atribuição
+== igual
+!= diferente
+
++ soma
+- subtração
+* multiplicação
+** potenciação
+/ divisão
