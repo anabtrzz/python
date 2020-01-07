@@ -1,0 +1,17 @@
+coisas q da pra fazer no python
+
+* analise de dados
+
+* construção de:
+- sistemas web
+- aplicativos
+- sistemas desktop
+
+em python tudo é objeto, não precisa declarar o tipo da variável que por conta disso pode variar
+
+as variáveis são declaradas por atribuição, utilizando um "=" pra dizer que a variável recebeu um valor,
+ex:
+a = b
+* ('a' recebe b)
+* 'a' é a variável
+tipo uma caixa que vc coloca coisas dentro, a variável é a caixa e os valores são as coisas dentro
